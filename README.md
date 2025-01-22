@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a second-year MBA candidate at **Chicago Booth**, purs
 - **Amazon** (Incoming MBA Leadership Development Program Associate)
 - **Evercore Partners**  
   - Investment Banking Summer Associate (M&A – Generalist)  
-    - Worked on six accounts, including a ~$3B buy-side logistics deal and a ~$200M sell-side tech transaction  
+    - Worked on six accounts, including a ~$3B buy-side logistics deal and a ~$200M sell-side media-tech transaction  
     - Conducted DCF, Comparable Companies, and Precedent Transactions analysis
 - **Venture Capital Internships**  
   - Fellowship VC Intern at ATG Samata: Developed investment theses focusing on Climate Adaptation in Africa  
