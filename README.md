@@ -61,9 +61,9 @@ Welcome to my GitHub! I'm a second-year MBA candidate at **Chicago Booth**, purs
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Sanya Jain](https://www.linkedin.com/in/sanyajain)  
+- **LinkedIn:** [Sanya Jain](https://www.linkedin.com/in/sanya-jain-649278b7/)  
 - **Email:** sanya.jain@chicagobooth.edu
-- **Email:** san.j3005@gmail.com   
+- **Personal Email:** san.j3005@gmail.com   
 ---
 
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect if our interests align. 😊
