@@ -53,10 +53,15 @@ Welcome to my GitHub! I'm a second-year MBA candidate at **Chicago Booth**, purs
 
 ---
 
-## 📌 Current Projects
-- Designing a study to analyze **cultural differences in risk aversion** between Chile and the USA.
-- Collaborating with startups on **market penetration** and **operational strategy**.
-- Writing LinkedIn posts to engage **VCs** and other stakeholders in the startup ecosystem.
+## 📌 Projects Showcase
+
+| Project Name                          | Description                                                                 | Key Achievement                          |
+|---------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|
+| **Cultural Differences Study**       | Analyzed risk aversion between Chile and the USA                           | Designed a comprehensive study model      |
+| **Market Penetration Strategy**      | Collaborated with startups on operational strategies                       | Improved market entry efficiency          |
+| **Pampers Product Launch**           | Led cross-functional teams for Pampers variant launch                      | Delivered $7M YoY cost savings            |
+| **Visual Analytical Tool Development**| Built a tool for optimizing resource utilization                           | Achieved $117,000 annual cost savings     |
+| **Investment Theses Development**    | Researched Climate Adaptation and startups in emerging markets             | Identified key investment opportunities   |
 
 ---
 
