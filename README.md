@@ -15,12 +15,23 @@ Welcome to my GitHub! I'm a second-year MBA candidate at **Chicago Booth**, purs
 
 ## 💼 Professional Experience
 - **Amazon** (Incoming MBA Leadership Development Program Associate)
-- **Procter & Gamble**
-  - Led operations for Pampers in South Asia
-  - Developed a pricing strategy for an entry-level product line based on consumer surveys
-  - Built PowerBI dashboards to automate weekly reporting, reducing report time by 90%
-- **Evercore Partners** (Investment Banking Analyst)
-- **ATG Samata** & **Prath Ventures** (Venture Capital Analyst)
+- **Evercore Partners**  
+  - Investment Banking Summer Associate (M&A – Generalist)  
+    - Worked on six accounts, including a ~$3B buy-side logistics deal and a ~$200M sell-side tech transaction  
+    - Conducted DCF, Comparable Companies, and Precedent Transactions analysis
+- **Venture Capital Internships**  
+  - Fellowship VC Intern at ATG Samata: Developed investment theses focusing on Climate Adaptation in Africa  
+  - Pre-MBA VC Intern at Prath Ventures: Conducted due diligence on 10+ startups, providing investment recommendations
+- **Procter & Gamble (P&G)**  
+  - Market Availability Leader, South Asian Markets (Top 5% of all employees across P&G)  
+    - Led strategy & ops and business development for South Asian markets, delivering revenues of $66M in FY 2021-22
+    - Managed external and internal stakeholders of 8 Asian countries and 7 different product categories
+    - Spearheaded P&G’s market entry in Bhutan, generating $2M revenue in the first year  
+    - Reduced overhead costs by $5M in Bangladesh through strategic investment planning  
+  
+  - Operations Management, Process Improvement & Strategy  
+    - Managed a 22-member team, improving operational efficiency by 17% and delivering $55M annual revenue
+    - Launched Pampers new variant, delivering cost savings of $7M YoY
 
 ---
 
